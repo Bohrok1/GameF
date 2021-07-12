@@ -1,0 +1,10 @@
+char tilemap[height][width] = {
+"               ",
+"               ",
+"               ",
+"tt  ttttttt  tt",
+"ooooooooooooooo",
+"ooooooooooooooo",
+"oooooooottooooo",
+"ttttttttttttttt"
+};
